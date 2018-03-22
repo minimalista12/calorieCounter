@@ -3,12 +3,12 @@ export const user = values => ({
   values
 })
 
-export const responseService = values => ({
-  type: 'RESPONSE_SERVICE',
-  values
+export const viewForm = status => ({
+  type: 'TOGGLE_FORM',
+  status
 })
 
-export const viewForm = status => ({
-  type: 'TOGLE_FORM',
-  status
+export const prueba3 = values => ({
+  type: 'CALORIES_REST',
+  values
 })

@@ -1,15 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-const DatosUser = ({ user }) => (
+const Prueba = ({ user/* , funtionEjec */ }) => (
   <div className="container-fluid">
-    <h2>Ingesta diaria de calorías</h2>
-    <div>
     <label > { user !==undefined && user.calorias!==undefined ? user.calorias : 'No calorias'}</label>
-    </div>
-    <h2>Recomendadas para ti</h2>  
+   {/*  <button type="button" className="btn btn-primary" onClick={funtionEjec} >  click me</button> */}
   </div>
   
 )
 
-export default DatosUser;
+export default Prueba;

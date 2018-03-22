@@ -1,6 +1,6 @@
-const viewForm = (state = { status: true }, action) => {
+const viewCalories = (state = { status: true }, action) => {
   switch (action.type) {
-    case 'TOGGLE_FORM':
+    case 'TOGGLE_CALORIES':
       return {...state,
         status: action.status
       }
@@ -9,4 +9,4 @@ const viewForm = (state = { status: true }, action) => {
   }
 }
 
-export default viewForm;
+export default viewCalories;

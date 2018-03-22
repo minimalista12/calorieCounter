@@ -1,4 +1,5 @@
 import { connect } from 'react-redux'
+import Prueba2 from '../components/Prueba2'
 import DatosUser from '../components/DatosUser'
 
 const mapState = (state) => ({
@@ -7,4 +8,4 @@ const mapState = (state) => ({
 
 export default connect(
   mapState
-)(DatosUser)
+)(Prueba2)
