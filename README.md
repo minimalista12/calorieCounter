@@ -22,8 +22,21 @@ Lo primero que hicimos fue comprender el reto entregado durante la Hackaton de L
 
 Luego de definir con qué aplicación ibamos a trabajar,lo primero que hicimos fue testearla entre nosotras, para esto cada una descargó la aplicación y comenzó a usarla.
 
-Ya realizado el test se realizó un Brainstorming, con el objetivo de bajar los conceptos, ideas y problemas obtenidos al usar Calorie Counter. Estos conceptos se agruparon en 4 grupos:Atractiva - Simple - Uso - Personalizado
+Ya realizado el test se realizó un Brainstorming, con el objetivo de bajar los conceptos, ideas y problemas obtenidos al usar Calorie Counter. Estos conceptos se agruparon en 4 grupos: Atractiva - Simple - Uso - Personalizado
 
 ![alt text](https://lh4.googleusercontent.com/ueCbNhdcZzYqSsplaLUx4lmwf8kNMz-CXhYZ6_lCD0cZub2dJRG6-kXlPhd7U-OkNJCiMQfwjuhYjUYU8YBW=w1366-h671-rw)
 
 ![alt text](https://lh6.googleusercontent.com/xYb7pm8ritWHRjQ6VlmvK3LAnv6r1tiF0ljn7UbURG-t0caF0MeZWMwoWYs4bJoCvhUBoUEXf_iAtu_eCoQB=w1366-h671-rw)
+
+Después de analizar la información contenida en estos grupos, se llegó a la conclusión de que la falta de estos conceptos es lo que hace que el usar Calorie Counter no genere una experiencia agradable para los usuarios.  
+Para poder realizar el re diseno y determinar qué esperan los usuarios de este tipo de aplicaciones decidimos respondernos las siguientes preguntas: 
+¿A **quién** va dirigida esta aplicación? 
+¿**Para qué** y **por qué** la usan?
+
+Para poder responder estas preguntas realizamos una encuesta, difuendiéndola en grupos de deporte, alimentación saludable y control de peso, filtrando solo a las personas que usan o han usado este tipo de aplicaciones alguna vez.  
+
+
+
+
+
+
