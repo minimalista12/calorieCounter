@@ -14,7 +14,6 @@ class App extends Component {
         <Route exact path="/datosUser" component={DatosUser} />
         <Route exact path="/dailyLimit" component={DailyLimit} />
       </div>
-
       </MuiThemeProvider>
     </Router>
     );
