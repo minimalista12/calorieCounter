@@ -3,7 +3,7 @@ import React from 'react'
 const DatosUser = ({ user, dispatch }) => (
   <div>
     <div className="btnBack">
-    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/#/'}>Atras</button>
+    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/calorieCounter/#/'}>Atras</button>
     </div>
     <div className="thirdPage">
       <h2>Ingesta diaria de calorías</h2>
