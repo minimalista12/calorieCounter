@@ -8,7 +8,7 @@ const DatosUser = ({ user, dispatch }) => (
     <div>
     <label > { user !==undefined && user.calorias!==undefined ? user.calorias : null}</label>
     </div>
-    <h2>Recomendadas para ti</h2>
+    <h3>recomendadas para ti</h3>
     <button onClick={()=>dispatch(viewForm(true))}>Atras</button>  
     {/* <button onClick={()=>dispatch(viewForm(true))}>Siguiente</button>  */} 
   </div>
