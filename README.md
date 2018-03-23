@@ -57,10 +57,12 @@ Ya con las funciones básicas definidas se comenzó con el re diseño de Calorie
 Para partir se realizó el mapa del sitio, con los contenidos que se consideran necesarios para el desarrollo, comprensión y funcionamiento, ayudando a estructurar de mejor manera la aplicación. 
 
 ![alt text](https://lh6.googleusercontent.com/RxwaoBqmWk7N8K6AnaQa0FImpHCiSFh6qvRDu5ZjiCRLzGi05Yuar8AUwK3dZj6CxKt9Q-kLV3_vE4iiG5s9=w1366-h671)
+
 Luego se generó un User Flow, lo que ayudó a comprender cómo sería el flujo de comportamiento del usuario una vez que ingresara a la aplicación. 
 
 ![alt text](https://lh5.googleusercontent.com/nsMmdS9F9_eHJWT2HpljEyiE2axCSLy16vXIpUY5nfJbd-w4SRGF_-pTFMz9ySjQqBnYUdkJkcOlFY-03yQG=w1366-h671-rw)
 
+Luego de todo esto, fue mucho más sencillo desarrollar los primeros sketch dándole más forma a la aplicación.
 
-
+![alt text](https://lh5.googleusercontent.com/0dDYsCAaCER8x-wQAQAPNoP71syZAoNLhZ9paq53EpkU-7mCC7s6cOz2DSdG3zshJ1Z382GMMvSN5xycyqzg=w1366-h671)
 
