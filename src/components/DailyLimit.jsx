@@ -48,7 +48,7 @@ const DailyLimit = ({ user, dispatch, elementos }) => (
     </div>
 
     <div>
-      <button onClick={() => window.location = window.location.protocol + '//' + window.location.host + '/calorieCount/#/datosUser'}>Atras</button>
+      <button onClick={() => window.location = window.location.protocol + '//' + window.location.host + '/calorieCounter/#/datosUser'}>Atras</button>
       <button onChange={(selectedOption) => {
         dispatch(addDaily(selectedOption));
         console.log(`Selected: ${selectedOption.label}`);

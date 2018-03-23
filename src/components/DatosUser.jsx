@@ -13,7 +13,7 @@ const DatosUser = ({ user, dispatch }) => (
       <h3>recomendadas para ti</h3>
     </div>
     <div className="btnNext">
-    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/calorieCount/#/dailyLimit'}>Agregar Alimentos</button> 
+    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/calorieCounter/#/dailyLimit'}>Agregar Alimentos</button> 
     </div>      
   </div>  
 )
