@@ -92,8 +92,6 @@ Con todo esto se itera llegando al Protitpo Final MVP.
 [revisar prototipo](https://sm5wt2.axshare.com/#c=2)
 
 
-[Local host](https://byanezzz.github.io/calorieCounter)
-
  
  
  
