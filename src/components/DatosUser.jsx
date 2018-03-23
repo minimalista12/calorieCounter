@@ -13,7 +13,7 @@ const DatosUser = ({ user, dispatch }) => (
       <h3>recomendadas para ti</h3>
     </div>
     <div className="btnNext">
-      <button /*onClick={() => dispatch(viewForm(true))}*/>Agregar alimentos</button>
+    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/#/dailyLimit'}>Agregar Alimentos</button> 
     </div>      
   </div>  
 )

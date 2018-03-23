@@ -8,12 +8,12 @@ export const viewForm = status => ({
   status
 })
 
-export const CalcCalories = values => ({
-  type: 'SEND_CALORIES',
+export const sustraerCalories = values => ({
+  type: 'CALORIES_REST',
   values
 })
 
-export const viewCalories = status => ({
-  type: 'TOGGLE_CALORIES',
-  status
+export const addDaily = values => ({
+  type: 'ADD_TODO',
+  values
 })

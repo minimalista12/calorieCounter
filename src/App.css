@@ -72,6 +72,15 @@ h3 {
   background-color: transparent;
 }
 
+.anchoSelect {
+  width: 15em;
+  padding-left: 2em;
+  margin-top: 2em;
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: transparent;
+}
+
 .activity {
   padding: 2em 0;
 }
