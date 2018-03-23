@@ -20,6 +20,8 @@ Nuestro objetivo principal es identificar beneficios y principales problemas pre
 ## Plan de trabajo
 Lo primero que hicimos fue comprender el reto entregado durante la Hackaton de Laboratoria, se definieron objetivos desde el lado de Front-End y UX, organizando las tareas para cumplir con el reto en un plazo de 3 días.
 
-Luego de definir con que aplicación ibamos a trabajar,lo primero que hicimos fue testear la aplicación entre nosotras, para esto cada una descargó la aplicación y comenzó a usarla.
+Luego de definir con qué aplicación ibamos a trabajar,lo primero que hicimos fue testearla entre nosotras, para esto cada una descargó la aplicación y comenzó a usarla.
 
-Ya testeada la aplicación se realizó un Brainstorming, con el objetivo de bajar los conceptos, ideas y problemas obtenidos al usar la aplicación 
+Ya realizado el test se realizó un Brainstorming, con el objetivo de bajar los conceptos, ideas y problemas obtenidos al usar Calorie Counter. Estos conceptos se agruparon en 4 grupos:
+
+![alt text](https://lh5.googleusercontent.com/Lt4cpfeyCq5mIQ7ig2vu3QdgXcq2UVposcuxPtXy5_lR6f9NGC5EZumPIWCksbO7RWI_F8qzQp2e3Eit1PVr=w1366-h671-rw)
