@@ -2,9 +2,6 @@
 
 ![alt text](http://img.fenixzone.net/i/F2deSpO.png)
 
-
-
-
 ## NUESTRO RETO 
 ![alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/RETO.png)
 
@@ -23,3 +20,6 @@ Nuestro objetivo principal es identificar beneficios y principales problemas pre
 ## Plan de trabajo
 Lo primero que hicimos fue comprender el reto entregado durante la Hackaton de Laboratoria, se definieron objetivos desde el lado de Front-End y UX, organizando las tareas para cumplir con el reto en un plazo de 3 días.
 
+Luego de definir con que aplicación ibamos a trabajar,lo primero que hicimos fue testear la aplicación entre nosotras, para esto cada una descargó la aplicación y comenzó a usarla.
+
+Ya testeada la aplicación se realizó un Brainstorming, con el objetivo de bajar los conceptos, ideas y problemas obtenidos al usar la aplicación 
