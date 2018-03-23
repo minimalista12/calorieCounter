@@ -46,8 +46,12 @@ Basandonos en la información recopilada durante la investigación,en las necesi
 
 ![alt text](https://lh4.googleusercontent.com/d9-baTJcQxvFSUnLuwKv-IAIpluYiwVRhGfctRqEJA8b7dEmqL6S4-6qYJbcl2zEL8-bBFu4tto3FIRvNeJQ=w1366-h671-rw)
 
-#### Funciones básicas
+### Funciones básicas
 ![alt text](https://lh4.googleusercontent.com/AiWzqLMMGqswmQHwNzUx2bm99T_b8ZKwG0JvFzO-xkLLfwyi7W6ab6Dsjs68FR5K8VQi8VuNTL3UeHmsILzZ=w1366-h671)
+
+
+## Ideación
+
 
 
 
