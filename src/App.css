@@ -28,14 +28,8 @@
 }
 */
 
-.initialView {
-  background-color: green;
-  width: 100%;
-  height: 100vh;
-}
-
 .themeCont {
-  outline: 2px solid black;
+  /* outline: 2px solid black;*/
   height: 100vh;
   text-align: center;
   background: linear-gradient(to left, #53B3B8, #71E69A );
@@ -88,3 +82,34 @@ Form {
   background-color: #EAEAEA;
 }
 
+
+.calculatedCalories {
+  height: 1em;
+  width: 1em;
+  border-radius: 50%;
+  background-color: #97DCC1;
+  display: inline-flex;
+  justify-content: center;
+  padding: 5em;
+  margin: 3em 0;
+}
+
+.calculatedCalories > label {
+  font-size: 2em;
+}
+
+.btnBack {
+  display: flex;
+  justify-content: flex-start;
+  padding: 1em;
+}
+
+.thirdPage {
+  padding: 1em 2em;
+}
+
+.btnNext {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1em;
+}
