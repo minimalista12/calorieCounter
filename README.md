@@ -85,7 +85,7 @@ Luego de testear el prototipo los usuarios nos dan a conocer mejoras en cuanto a
  - Nos dan a conocer la opción de elegir más de un alimento a la vez *
  - Nos dan a conocer la opción de agregar más de una porción *
 
-Estos puntos son presentados al equipo de desarrollo, para saber la factibilidad tecnica y posibilidad de agregar estos detalles y que esten listos en el plazo acordado. Llegando a la conclusión de que los 2 últimos puntos no alcanzarán a ser abordados en el MVP.
+Estos puntos son presentados al equipo de desarrollo, para saber la factibilidad tecnica, posibilidad de agregar estos detalles y que esten listos en el plazo acordado. Llegando a la conclusión de que los 2 últimos puntos no alcanzarán a ser abordados en el MVP.
 
 Con todo esto se itera llegando al Protitpo Final MVP.
 
