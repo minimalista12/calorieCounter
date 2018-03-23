@@ -3,7 +3,7 @@
 ![alt text](https://ibb.co/mGVjZc)
 
 ## NUESTRO RETO 
-![alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/RETO.png
+![alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/RETO.png)
 
 ## Objetivos
 Nuestro objetivo principal es identificar beneficios y principales problemas presentes en Calorie Counter, con el fin de mejorar su experiencia de uso.
