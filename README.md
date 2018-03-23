@@ -53,9 +53,13 @@ Basandonos en la información recopilada durante la investigación,en las necesi
 ## Re diseño 
 
 Ya con las funciones básicas definidas se comenzó con el re diseño de Calorie Counter
-Para partir se realizó el mapa del sitio, con los contenidos que se consideran necesarios para el desarrollo, comprensión y funcionamiento, ayudando a estructurar de mejor manera la aplicación. 
-![alt text](https://lh6.googleusercontent.com/RxwaoBqmWk7N8K6AnaQa0FImpHCiSFh6qvRDu5ZjiCRLzGi05Yuar8AUwK3dZj6CxKt9Q-kLV3_vE4iiG5s9=w1366-h671)
 
+Para partir se realizó el mapa del sitio, con los contenidos que se consideran necesarios para el desarrollo, comprensión y funcionamiento, ayudando a estructurar de mejor manera la aplicación. 
+
+![alt text](https://lh6.googleusercontent.com/RxwaoBqmWk7N8K6AnaQa0FImpHCiSFh6qvRDu5ZjiCRLzGi05Yuar8AUwK3dZj6CxKt9Q-kLV3_vE4iiG5s9=w1366-h671)
+Luego se generó un User Flow, lo que ayudó a comprender cómo sería el flujo de comportamiento del usuario una vez que ingresara a la aplicación. 
+
+![alt text](https://lh4.googleusercontent.com/hXCMhNt6JhyziZiTC8ZGjilrrNRfCcJt7CM-pcgmExtxG4awsUsytIyyb5a-Oo1l2_jS8oAMZN6IzZZty90o=w1366-h671-rw)
 
 
 
