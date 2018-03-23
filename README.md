@@ -59,7 +59,7 @@ Para partir se realizó el mapa del sitio, con los contenidos que se consideran 
 ![alt text](https://lh6.googleusercontent.com/RxwaoBqmWk7N8K6AnaQa0FImpHCiSFh6qvRDu5ZjiCRLzGi05Yuar8AUwK3dZj6CxKt9Q-kLV3_vE4iiG5s9=w1366-h671)
 Luego se generó un User Flow, lo que ayudó a comprender cómo sería el flujo de comportamiento del usuario una vez que ingresara a la aplicación. 
 
-![alt text](https://lh4.googleusercontent.com/hXCMhNt6JhyziZiTC8ZGjilrrNRfCcJt7CM-pcgmExtxG4awsUsytIyyb5a-Oo1l2_jS8oAMZN6IzZZty90o=w1366-h671-rw)
+![alt text](https://lh5.googleusercontent.com/nsMmdS9F9_eHJWT2HpljEyiE2axCSLy16vXIpUY5nfJbd-w4SRGF_-pTFMz9ySjQqBnYUdkJkcOlFY-03yQG=w1366-h671-rw)
 
 
 
