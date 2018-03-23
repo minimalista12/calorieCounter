@@ -77,3 +77,21 @@ Se realizaron 2 propuestas de prototipo una en Marvel y otra en Axure RP, estas 
 Se realizaron testeos para determinar posibles problemas de usabilidad y comprensión 
 ![alt text](https://image.ibb.co/d18VqH/29004340_10216028480204483_2050123914_n.jpg)
 
+Luego de testear el prototipo los usuarios nos dan a conocer mejoras en cuanto a usabilidad y cosas que le facilitarian la tarea:
+ - Falta boton para editar los datos personales
+ - Se repite con más de 2 usuarios problema de comprensión entre texto "agregar alimento" y botón
+ - Falta boton para poder retroceder
+ - Varios usuarios intentan agregar alimento solo con presionar el nombre
+ - Nos dan a conocer la opción de elegir más de un alimento a la vez *
+ - Nos dan a conocer la opción de agregar más de una porción *
+
+Estos puntos son presentados al equipo de desarrollo, para saber la factibilidad tecnica y posibilidad de agregar estos detalles y que esten listos en el plazo acordado. Llegando a la conclusión de que los 2 últimos puntos no alcanzarán a ser abordados en el MVP.
+
+Con todo esto se itera llegando al Protitpo Final MVP.
+
+[revisar prototipo](https://sm5wt2.axshare.com/#c=2)
+ 
+ 
+ 
+ 
+ 
