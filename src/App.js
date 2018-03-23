@@ -11,8 +11,8 @@ class App extends Component {
       <MuiThemeProvider > 
         <div className="themeCont" >
         <Route exact path="/" component={FormUser} />
-        <Route exact path="/caloriesCounter/datosUser" component={DatosUser} />
-        <Route exact path="/caloriesCounter/dailyLimit" component={DailyLimit} />
+        <Route exact path="/datosUser" component={DatosUser} />
+        <Route exact path="/dailyLimit" component={DailyLimit} />
       </div>
       </MuiThemeProvider>
     </Router>
