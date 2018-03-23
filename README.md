@@ -13,7 +13,6 @@
 ![alt text](https://github.com/minimalista12/Proyecto-Final/blob/master/imagenes/app3.png)
 
 ##### Calorie Counter es una aplicación que cuenta con mas de 100 mil descargas, pero no posee buenas calificaciones, ya que su experiencia de uso no es muy buena.
-![alt text](https://image.ibb.co/cm6n5S/Screenshot_20180323_113523.png)
 
 ## Objetivos
 Nuestro objetivo principal es identificar beneficios y principales problemas presentes en la aplicación Calorie Counter, con el fin de mejorar su experiencia de uso.
