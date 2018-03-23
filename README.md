@@ -50,7 +50,11 @@ Basandonos en la información recopilada durante la investigación,en las necesi
 ![alt text](https://lh4.googleusercontent.com/AiWzqLMMGqswmQHwNzUx2bm99T_b8ZKwG0JvFzO-xkLLfwyi7W6ab6Dsjs68FR5K8VQi8VuNTL3UeHmsILzZ=w1366-h671)
 
 
-## Ideación
+## Re diseño 
+
+Ya con las funciones básicas definidas se comenzó con el re diseño de Calorie Counter
+Para partir se realizó el mapa del sitio, con los contenidos que se consideran necesarios para el desarrollo, comprensión y funcionamiento, ayudando a estructurar de mejor manera la aplicación. 
+![alt text](https://lh6.googleusercontent.com/RxwaoBqmWk7N8K6AnaQa0FImpHCiSFh6qvRDu5ZjiCRLzGi05Yuar8AUwK3dZj6CxKt9Q-kLV3_vE4iiG5s9=w1366-h671)
 
 
 
