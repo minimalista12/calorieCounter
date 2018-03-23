@@ -74,3 +74,6 @@ Se realizaron 2 propuestas de prototipo una en Marvel y otra en Axure RP, estas 
 #### Axure RP
 ![alt text](https://lh3.googleusercontent.com/Xd3jG-rg8SyU07-Mj4peVmnXEYhrNaz5k2Mj3noyJXIobbh99P0pLGe4jPkkZZ17VZbCZXBnz3AilpN396Hg=w1366-h671)
 
+Se realizaron testeos para determinar posibles problemas de usabilidad y comprensión 
+![alt text](https://image.ibb.co/d18VqH/29004340_10216028480204483_2050123914_n.jpg)
+
