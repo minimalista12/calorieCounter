@@ -44,10 +44,10 @@ También como apoyo a esto se realizó un Benchmark de aplicaciones para control
 
 Basandonos en la información recopilada durante la investigación,en las necesidades y preferencias de los usuarios, debatimos como equipo una lista de funciones, evaluando su factibilidad técnica y posibilidad de desarrollar en el tiempo planificado. Llegando a una lista de funciones básicas que debe contener nuestro MVP. 
 
-![alt text](https://lh4.googleusercontent.com/d9-baTJcQxvFSUnLuwKv-IAIpluYiwVRhGfctRqEJA8b7dEmqL6S4-6qYJbcl2zEL8-bBFu4tto3FIRvNeJQ=w1366-h671-rw)
+![alt text](https://image.ibb.co/kpfQaS/IMG_20180321_135937.jpg)
 
 ### Funciones básicas
-![alt text](https://lh4.googleusercontent.com/AiWzqLMMGqswmQHwNzUx2bm99T_b8ZKwG0JvFzO-xkLLfwyi7W6ab6Dsjs68FR5K8VQi8VuNTL3UeHmsILzZ=w1366-h671)
+![alt text](https://image.ibb.co/geDp27/Funciones.jpg)
 
 
 ## Re diseño 
@@ -56,23 +56,23 @@ Ya con las funciones básicas definidas se comenzó con el re diseño de Calorie
 
 Para partir se realizó el mapa del sitio, con los contenidos que se consideran necesarios para el desarrollo, comprensión y funcionamiento, ayudando a estructurar de mejor manera la aplicación. 
 
-![alt text](https://lh6.googleusercontent.com/RxwaoBqmWk7N8K6AnaQa0FImpHCiSFh6qvRDu5ZjiCRLzGi05Yuar8AUwK3dZj6CxKt9Q-kLV3_vE4iiG5s9=w1366-h671)
+![alt text](https://image.ibb.co/fsV59n/mapa_del_sitio.jpg)
 
 Luego se generó un User Flow, lo que ayudó a comprender cómo sería el flujo de comportamiento del usuario una vez que ingresara a la aplicación. 
 
-![alt text](https://lh5.googleusercontent.com/nsMmdS9F9_eHJWT2HpljEyiE2axCSLy16vXIpUY5nfJbd-w4SRGF_-pTFMz9ySjQqBnYUdkJkcOlFY-03yQG=w1366-h671-rw)
+![alt text](https://image.ibb.co/denwFS/user_flow.png)
 
 Luego de todo esto, fue mucho más sencillo desarrollar los primeros sketch dándole más forma a la aplicación.
 
-![alt text](https://lh5.googleusercontent.com/0dDYsCAaCER8x-wQAQAPNoP71syZAoNLhZ9paq53EpkU-7mCC7s6cOz2DSdG3zshJ1Z382GMMvSN5xycyqzg=w1366-h671)
+![alt text](https://image.ibb.co/c8wTUn/Sketch.jpg)
 
 Se realizaron 2 propuestas de prototipo una en Marvel y otra en Axure RP, estas fueron presentadas y testeadas con el equipo de trabajo y mediante votacion del equipo se eligió el prototipo en Axure RP para seguir iterando. 
 
 #### Marvel App
-![alt text](https://lh5.googleusercontent.com/ausFZ10mqEqLNldm7wG9dFbhm01XWVeIaNzXa3tZsFvkTP8gpXHIpzHtGMt7dnb4tztxfHBJd6zGxqeZuI41=w1366-h671)
+![alt text](https://image.ibb.co/jOb6FS/marvel_app.jpg)
 
 #### Axure RP
-![alt text](https://lh3.googleusercontent.com/Xd3jG-rg8SyU07-Mj4peVmnXEYhrNaz5k2Mj3noyJXIobbh99P0pLGe4jPkkZZ17VZbCZXBnz3AilpN396Hg=w1366-h671)
+![alt text](https://image.ibb.co/fSiLaS/axure.jpg)
 
 Se realizaron testeos para determinar posibles problemas de usabilidad y comprensión 
 ![alt text](https://image.ibb.co/d18VqH/29004340_10216028480204483_2050123914_n.jpg)
