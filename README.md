@@ -66,3 +66,4 @@ Luego de todo esto, fue mucho más sencillo desarrollar los primeros sketch da�
 
 ![alt text](https://lh5.googleusercontent.com/0dDYsCAaCER8x-wQAQAPNoP71syZAoNLhZ9paq53EpkU-7mCC7s6cOz2DSdG3zshJ1Z382GMMvSN5xycyqzg=w1366-h671)
 
+Se realizaron 2 propuestas de prototipo una en Marvel y otra en Axure RP, estas fueron presentadas y testeadas con el equipo de trabajo y mediante votacion del equipo se eligió el prototipo en Axure RP para seguir iterando. 
