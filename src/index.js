@@ -1,10 +1,7 @@
-import React from 'react'
-import { render } from 'react-dom'
-import { createStore } from 'redux'
-import { Provider } from 'react-redux'
-/* import App from './components/App' */
+import React from 'react';
+import { render } from 'react-dom';
+import { Provider } from 'react-redux';
 import App from './App';
-import rootReducer from './reducers/index'
 import configStore from './store/configStore';
 
 const store = configStore();

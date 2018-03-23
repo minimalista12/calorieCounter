@@ -1,6 +1,6 @@
-const CalcCalories = (state = {}, action) => {
+const calcCalories = (state = {}, action) => {
   switch (action.type) {
-    case 'CALORIES_REST':
+    case 'SEND_CALORIES':
       return {...state,
         calories: dailyCalories,
         food: foodCalories,
@@ -16,4 +16,4 @@ function calculoCalorias(dailyCalories, foodCalories) {
 
 }
 
-export default CalcCalories;
+export default calcCalories;

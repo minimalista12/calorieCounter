@@ -1,6 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { viewForm } from '../actions'
 
 const DatosUser = ({ user, dispatch }) => (
   <div className="container-fluid">
@@ -8,11 +6,9 @@ const DatosUser = ({ user, dispatch }) => (
     <div>
     <label > { user !==undefined && user.calorias!==undefined ? user.calorias : null}</label>
     </div>
-    <h2>Recomendadas para ti</h2>
-    <button onClick={()=>dispatch(viewForm(true))}>Atras</button>  
-    {/* <button onClick={()=>dispatch(viewForm(true))}>Siguiente</button>  */} 
-  </div>
-  
+    <h2>Recomendadas para ti</h2>    
+    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/#/'}>Atras</button>    
+  </div>  
 )
 
 export default DatosUser;

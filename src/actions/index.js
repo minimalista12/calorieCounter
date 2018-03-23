@@ -8,7 +8,12 @@ export const viewForm = status => ({
   status
 })
 
-export const prueba3 = values => ({
-  type: 'CALORIES_REST',
+export const CalcCalories = values => ({
+  type: 'SEND_CALORIES',
   values
+})
+
+export const viewCalories = status => ({
+  type: 'TOGGLE_CALORIES',
+  status
 })
