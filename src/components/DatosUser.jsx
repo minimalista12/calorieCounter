@@ -1,13 +1,20 @@
 import React from 'react'
 
 const DatosUser = ({ user, dispatch }) => (
-  <div className="container-fluid">
-    <h2>Ingesta diaria de calorías</h2>
-    <div>
-    <label > { user !==undefined && user.calorias!==undefined ? user.calorias : null}</label>
+  <div>
+    <div className="btnBack">
+    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/#/'}>Atras</button>
     </div>
-    <h2>Recomendadas para ti</h2>    
-    <button onClick={()=>window.location = window.location.protocol + '//' + window.location.host + '/#/'}>Atras</button>    
+    <div className="thirdPage">
+      <h2>Ingesta diaria de calorías</h2>
+      <div className="calculatedCalories">
+        <label > {user !== undefined && user.calorias !== undefined ? user.calorias : null}</label>
+      </div>
+      <h3>recomendadas para ti</h3>
+    </div>
+    <div className="btnNext">
+      <button /*onClick={() => dispatch(viewForm(true))}*/>Agregar alimentos</button>
+    </div>      
   </div>  
 )
 
