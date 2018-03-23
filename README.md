@@ -24,9 +24,9 @@ Luego de definir con qué aplicación ibamos a trabajar,lo primero que hicimos f
 
 Ya realizado el test se realizó un Brainstorming, con el objetivo de bajar los conceptos, ideas y problemas obtenidos al usar Calorie Counter. Estos conceptos se agruparon en 4 grupos: Atractiva - Simple - Uso - Personalizado
 
-![alt text](https://lh4.googleusercontent.com/ueCbNhdcZzYqSsplaLUx4lmwf8kNMz-CXhYZ6_lCD0cZub2dJRG6-kXlPhd7U-OkNJCiMQfwjuhYjUYU8YBW=w1366-h671-rw)
+![alt text](https://preview.ibb.co/dgsMFS/IMG_20180321_135950.jpg)
 
-![alt text](https://lh6.googleusercontent.com/xYb7pm8ritWHRjQ6VlmvK3LAnv6r1tiF0ljn7UbURG-t0caF0MeZWMwoWYs4bJoCvhUBoUEXf_iAtu_eCoQB=w1366-h671-rw)
+![alt text](https://image.ibb.co/c9hGh7/Dibujo_sin_ti_tulo.jpg)
 
 Después de analizar la información contenida en estos grupos, se llegó a la conclusión de que la falta de estos conceptos es lo que hace que el usar Calorie Counter no genere una experiencia agradable para los usuarios.  
 Para poder realizar el re diseno y determinar qué esperan los usuarios de este tipo de aplicaciones decidimos respondernos las siguientes preguntas: 
