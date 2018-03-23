@@ -40,11 +40,14 @@ Para poder responder estas preguntas realizamos una encuesta, difuendiéndola en
 - El 75% de ellos no saben cuántas calorías deben consumir diariamente. 
 - El 75% no considera necesario crearse una cuenta para utilizar está aplicación.
 
-También como apoyo a esto se realizó un Benchmark 
+También como apoyo a esto se realizó un Benchmark de aplicaciones para control de calorías, priorizando las con mejores calificaciones, lo que nos ayudó a entender de mejor manera que es lo que buscan los usuarios. 
 
+Basandonos en la información recopilada durante la investigación,en las necesidades y preferencias de los usuarios, debatimos como equipo una lista de funciones, evaluando su factibilidad técnica y posibilidad de desarrollar en el tiempo planificado. Llegando a una lista de funciones básicas que debe contener nuestro MVP. 
 
+![alt text](https://lh4.googleusercontent.com/PjmrqxdSzhOqy6TmnNB_AKQg5KOsbMICJleD2n8XdxPI_YYrKShgYYjX8IGpbK7Umbr2hoVfoPDgFdG5Mldw=w1366-h671-rw)
 
-
+####Funciones básicas
+![alt text](https://lh4.googleusercontent.com/AiWzqLMMGqswmQHwNzUx2bm99T_b8ZKwG0JvFzO-xkLLfwyi7W6ab6Dsjs68FR5K8VQi8VuNTL3UeHmsILzZ=w1366-h671)
 
 
 
