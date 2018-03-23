@@ -17,7 +17,7 @@ const validate_actividad = actividad => !actividad || actividad.trim() === '' ? 
 const FormUser = ({ dispatch, state }) => {
   const showResults = values => {
     dispatch(user(values));
-    window.location = window.location.protocol + '//' + window.location.host + '/#/datosUser';
+    window.location = window.location.protocol + '//' + window.location.host + '/calorieCounter/#/datosUser';
   }
 
   return (
