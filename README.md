@@ -33,7 +33,16 @@ Para poder realizar el re diseno y determinar qué esperan los usuarios de este 
 - ¿A **quién** va dirigida esta aplicación? 
 - ¿**Para qué** y **por qué** la usan?
 
-Para poder responder estas preguntas realizamos una encuesta, difuendiéndola en grupos de deporte, alimentación saludable y control de peso, filtrando solo a las personas que usan o han usado este tipo de aplicaciones alguna vez.  
+Para poder responder estas preguntas realizamos una encuesta, difuendiéndola en grupos de deporte, alimentación saludable y control de peso, filtrando solo a las personas que usan o han usado este tipo de aplicaciones. Con esto pudimos identificar:
+- Las personas entre 25 y 30 años son las que más usan este tipo de aplicaciones, seguidos por las personas entre 15 y 20 años. 
+- Lo qué mas buscan es que sea simple y fácil de usar.
+- La funcion principal que le dan es llevar un registro de las calorías y los alimentos que comen diariamente.
+- El 75% de ellos no saben cuántas calorías deben consumir diariamente. 
+- El 75% no considera necesario crearse una cuenta para utilizar está aplicación.
+
+También como apoyo a esto se realizó un Benchmark 
+
+
 
 
 
