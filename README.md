@@ -1,4 +1,4 @@
-# MEJORANDO APP CALORIE COUNTER 
+# PROYECTO UX-MEJORANDO APP CALORIE COUNTER 
 
 ![alt text](http://img.fenixzone.net/i/F2deSpO.png)
 
